@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Covid19-UI</string>
+    <string name="texto_ajuda">Se você se sentir doente com algum dos sintomas do covid19, ligue ou envie um sms imediatamente para obter ajuda</string>
 </resources>
